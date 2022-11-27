@@ -5,7 +5,7 @@
 
 
 ### Janusz
-
+<img src="img/benu-marinescu-e6ZOmEfNHLM-unsplash.jpg" width="300px">\
 
 ### Giovanni
 
