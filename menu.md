@@ -1,7 +1,9 @@
 # Menu
 
-
 ## Pizza
+
+<img src="img/chad-montano-MqT0asuoIcU-unsplash.jpg" width="300px">
+
 | Lp. | Nazwa | Mała | Średnia | Duża |
 |-----|-------|------|---------|------|
 | 1. | Margarita | 23 zł | 28 zł | 42 zł|
@@ -16,6 +18,8 @@
 | 10. | Chicken | 32 zł | 36 zł | 49 zł|
 
 ## Napoje
+
+<img src="img/jonathan-borba-yZOfNnI2PA0-unsplash.jpg" width="300px">
 
 | Lp. | Nazwa | Puszka 330ml | Butelka 0.5l | Butelka 1l |
 |-----|-------|--------------|--------------|------------|
@@ -38,6 +42,8 @@
 
 
 ## Sosy
+
+<img src="img/dennis-klein-FzB_512zvP0-unsplash.jpg" width="300px">
 
 | Lp. | Nazwa | Cena za dodatkowe opakowanie  | 
 |-----|-------|-------------------------------|
