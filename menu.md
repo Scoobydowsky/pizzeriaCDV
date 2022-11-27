@@ -21,3 +21,10 @@
 5. Sok pomarańczowy
 6. Woda gazowana
 7. Woda niegazowana
+
+## Dodatki do pizzy
+
+1. ser, szynka ,tuńczyk
+2. pomidor, szparagi, ogorki 
+3. frytki
+4. papryka, czosnek,oliwki,kukurydza,peperoni
