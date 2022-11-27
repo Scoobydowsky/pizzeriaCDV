@@ -15,6 +15,8 @@ Giovanni ma pizze we krwi.
 
 ### Adrian
 <img src="img/kama-tulkibayeva-IN-R5QAq5HA-unsplash.jpg" width="300px">\
+Nasz najmłodszy pracownik, ale mimo młodego wieku pod okiem Giovanniego widać jak wyrasta na prawdziwego pizzermana z krwi i kości.
+
 
 ### Janek
 <img src="img/roberto-valdivia-rcUw6b4iYe0-unsplash.jpg" width="300px">\
