@@ -16,9 +16,13 @@
 ### Tonno
 *sos pomidorowy, ser mozzarella, oregano, groszek, peperoni, tuńczyk*
 ### Diabolo
+*sos pomidorowy, ser mozzarella, oregano, czosnek, peperoni, salami, tabasco*
 ### Wegetariana
+*sos pomidorowy, ser mozzarella, oregano, cebula, papryka, pieczarki, szparagi*
 ### Vinci
+*sos pomidorowy, ser mozzarella, oregano, szynka, papryka, salami, oliwki*
 ### Chicken
+*sos pomidorowy, ser mozzarella, oregano, groszek, kukurydza, kurczak, pomidor*
 
 
 ## Sosy
