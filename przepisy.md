@@ -49,5 +49,10 @@
 *majonez, ketchup, joghurt nautralny,* **whiskey** *sól, pieprz, tabasco* 
 
 ### meksykański
+*ketchup, sok pomarańczowy , czosnek, koncentrat pomidorowy, majeranek, papryka ostra, czosnek*
+
 ### serowy
+*ser cheddar, mleko, śmietana 30%, skrobia, słodka papryka, gałka muszkatołowa*
+
 ### belgijski
+*majonez, ketchup, cebula, ocet, sól, pieprz*
