@@ -11,6 +11,6 @@
 <img src="img/rashid-khreiss-3fZGScw-WMQ-unsplash.jpg" width="300px">\
 
 ### Adrian
-
+<img src="img/kama-tulkibayeva-IN-R5QAq5HA-unsplash.jpg" width="300px">\
 
 ### Janek
