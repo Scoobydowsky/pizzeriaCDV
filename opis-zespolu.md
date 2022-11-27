@@ -1,3 +1,11 @@
 # Zespół
 
-tresc
+##Poznaj nasz Zespół
+
+###Janusz
+
+###Giovanni
+
+###Adrian
+
+###Janek
