@@ -1,8 +1,10 @@
 # Menu
 
+<img src="img/shaian-ramesht-exSEmuA7R7k-unsplash.jpg">
+
 ## Pizza
 
-<img src="img/chad-montano-MqT0asuoIcU-unsplash.jpg" width="300px">
+<img src="img/mahyar-motebassem-pGA4zHvpo5E-unsplash.jpg" width="300px">
 
 | Lp. | Nazwa | Mała | Średnia | Duża |
 |-----|-------|------|---------|------|
@@ -17,6 +19,18 @@
 | 9. | Vinci | 32 zł | 36 zł | 47 zł|
 | 10. | Chicken | 32 zł | 36 zł | 49 zł|
 
+## Dodatki do pizzy
+
+<img src="img/chad-montano-MqT0asuoIcU-unsplash.jpg" width="300px">
+
+
+| Lp. | Nazwa | Mała | Średnia | Duża |
+|-----|-------|------|---------|------|
+| 1. | ser, szynka ,tuńczyk | 6 zł | 7 zł | 9 zł|
+| 2. | pomidor, szparagi, ogorki  | 5 zł | 6 zł | 8 zł|
+| 3. | papryka, czosnek,oliwki,kukurydza,peperoni | 4 zł | 6 zł | 7 zł|
+| 4. | frytki | 4 zł | 6 zł | 10 zł|
+
 ## Napoje
 
 <img src="img/jonathan-borba-yZOfNnI2PA0-unsplash.jpg" width="300px">
@@ -30,15 +44,6 @@
 | 5. | Sok pomarańczowy | 4 zł | 6 zł | 8zł|
 | 6. | Woda gazowana | 3 zł | 5 zł | 7 zł|
 | 7. | Woda niegazowana | 2 zł | 4 zł | 6 zł|
-
-## Dodatki do pizzy
-
-| Lp. | Nazwa | Mała | Średnia | Duża |
-|-----|-------|------|---------|------|
-| 1. | ser, szynka ,tuńczyk | 6 zł | 7 zł | 9 zł|
-| 2. | pomidor, szparagi, ogorki  | 5 zł | 6 zł | 8 zł|
-| 3. | papryka, czosnek,oliwki,kukurydza,peperoni | 4 zł | 6 zł | 7 zł|
-| 4. | frytki | 4 zł | 6 zł | 10 zł|
 
 
 ## Sosy
