@@ -28,3 +28,14 @@
 2. pomidor, szparagi, ogorki 
 3. frytki
 4. papryka, czosnek,oliwki,kukurydza,peperoni
+
+
+## Sosy
+
+1. pomidorowy
+2. curry
+3. diabelski pomidorowy
+4. koktajlowy
+5. meksykański
+6. serowy
+7. belgijski
