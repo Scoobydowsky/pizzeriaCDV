@@ -1,11 +1,16 @@
 # Zespół
 
-##Poznaj nasz Zespół
 
-###Janusz
+## Poznaj nasz Zespół
 
-###Giovanni
 
-###Adrian
+### Janusz
 
-###Janek
+
+### Giovanni
+
+
+### Adrian
+
+
+### Janek
