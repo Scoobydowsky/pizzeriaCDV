@@ -20,3 +20,4 @@ Nasz najmłodszy pracownik, ale mimo młodego wieku pod okiem Giovanniego widać
 
 ### Janek
 <img src="img/roberto-valdivia-rcUw6b4iYe0-unsplash.jpg" width="300px">\
+Janek jest z nami od początku powstania pizzerii w swojej pracy wybiera zawsze świeże składniki, to skladniki wybrane przez niego lądują na waszej pizzy.
