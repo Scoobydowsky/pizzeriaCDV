@@ -10,8 +10,11 @@
 ### Capricciosa
 *sos pomidorowy, ser mozzarella, oregano, pieczarki, szynka*
 ### Salami
+*sos pomidorowy, ser mozzarella, oregano, salami*
 ### Hawaii
+*sos pomidorowy, ser mozzarella, oregano, ananas, szynka*
 ### Tonno
+*sos pomidorowy, ser mozzarella, oregano, groszek, peperoni, tuńczyk*
 ### Diabolo
 ### Wegetariana
 ### Vinci
