@@ -19,6 +19,8 @@
 | 9. | Vinci | 32 zł | 36 zł | 47 zł|
 | 10. | Chicken | 32 zł | 36 zł | 49 zł|
 
+*lista składników znajduje się [tutaj](/przepisy.md)*
+
 ## Dodatki do pizzy
 
 <img src="img/chad-montano-MqT0asuoIcU-unsplash.jpg" width="300px">
@@ -60,3 +62,4 @@
 | 6. | serowy | 8 zł |
 | 7. | belgijski | 4 zł |
 
+*lista składników znajduje się [tutaj](/przepisy.md)*
